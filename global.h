@@ -10,3 +10,7 @@ double Critical_Density = pow(10,-26);
 double km = 1 *pow (10,3); //kilometer
 double ly = 1 *pow (10,13); //light year
 double pi = 3.14;
+double FinalPos = 0;
+double IntPos =0;
+double t2 = 0;
+double t1 =0;
