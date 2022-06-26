@@ -3,7 +3,7 @@
 #include "KineticEnergy.h"
 int main()
 {
-double a= 30.5;
+double a = 30.5;
 double b = 50.0;
 double t2 = 40.0;
 double t1 = 30.0;
