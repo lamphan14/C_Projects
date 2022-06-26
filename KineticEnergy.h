@@ -1,5 +1,4 @@
 #include "global.h"
-#include "functions.h"
 //This file contains all the equations for Kinetic energy in English languague.
 //Starts with one dimension -> 2 dimention -> 3 dimention
 
