@@ -1,1 +1,0 @@
-void Star_Brightness_Calc()
