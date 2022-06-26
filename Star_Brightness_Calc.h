@@ -1,4 +1,3 @@
-#include "functions.h"
 #include "global.h"
 
 /*
